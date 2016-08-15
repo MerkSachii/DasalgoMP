@@ -1,0 +1,11 @@
+package edu.dasalgo.java;
+
+import java.util.ArrayList;
+
+public class Elevator {
+	private int maxWeight; // Maximum weight
+	private ArrayList<Integer> elevFloors = new ArrayList<>();
+	private double timeToMove;
+	private double boostedMove;
+	private boolean isHighSpeed;
+}

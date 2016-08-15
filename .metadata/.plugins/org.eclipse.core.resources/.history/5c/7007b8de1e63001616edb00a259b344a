@@ -1,0 +1,9 @@
+package edu.dasalgo.java;
+
+public class Person {
+	
+	private int weight;
+	private int patienceLevel;
+	private boolean toStairs;
+
+}
